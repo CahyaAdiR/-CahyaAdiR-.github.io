@@ -12,6 +12,11 @@ body {
     color: Teal;
 }
 
+.Header3 {
+    font-family: Arial;
+    color: olive;
+}
+
 p {
     font-family: Helvetica;
     color: white;
