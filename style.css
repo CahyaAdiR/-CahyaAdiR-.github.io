@@ -1,0 +1,83 @@
+body{     
+    border-style: solid hidden;   
+    border-color: midnightblue; 
+    border-radius: 5px;    
+    border-width: 10px;
+    height: 100%;
+    background-color: black;     
+    padding: 20px;  
+    overflow: auto;
+}
+
+.bg {
+    background-image: url("img/Bloodmoon.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#banner {
+    background-image: url(img/MilkyWay.jpeg);
+    background-size: cover;
+    background-position: bottom center;
+    height: 200px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+#banner .content h1 {
+    color: darkblue;
+    font-weight: 700px;
+    position: relative;
+    top: 50px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+#main {
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  width: 400px;
+  height: 2000px;
+}
+
+.section {
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+.section a {
+    background-color: midnightblue;
+    color: white;
+    padding: 15px;
+    display: inline block;
+}
+
+
+.Header1 {
+    font-family: Copperplate;
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+
+.Header2 {
+    font-family: Arial;
+    font-size: 30px;
+    color: cyan;
+}
+
+p,
+ul,
+ol {
+    font-family: sans-serif;
+    color: gray;
+}
+}
+
+ul, ol{
+    text-align: left;
+}
