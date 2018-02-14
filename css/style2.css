@@ -1,0 +1,25 @@
+h1 {
+	color: #ff6600;
+}
+
+h2 {
+	color: #00e673;
+}
+
+#nav {
+	border-style: dashed dotted;
+	border-color: #3333ff;
+	border-width: 5px;
+	margin: 10px 5px 15px 20px;
+	padding: 10px;
+}
+
+#nav a {
+	text-decoration: none;
+	color: #8585ad;
+}
+
+.recommended {
+	font-family: Tahoma;
+	margin: 15px;
+}
